@@ -1,0 +1,19 @@
+{
+  "name": "website-example",
+  "version": "0.0.0",
+  "engines": {
+    "node": "4.4.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
